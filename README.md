@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **C++ / ML / DSA**
+- 💬 Ask me about **C++ / PYTHON / DSA**
 
 - 📫 How to reach me **prashantpatil16012001@gmail.com**
 
