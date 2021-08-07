@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prash8830&label=Profile%20views&color=0e75b6&style=flat" alt="prash8830" /> </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **C++ / PYTHON / DSA**
 
