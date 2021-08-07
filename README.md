@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **C++ / PYTHON / DSA**
+- 💬 Ask me about **C++ / PYTHON / DSA /ML**
 
 - 📫 How to reach me **prashantpatil16012001@gmail.com**
 
