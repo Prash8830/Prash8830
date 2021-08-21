@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
+<h1 align="center">Hi 👋, I am Prashant</h1>
 <h3 align="center">A passionate programmer from India for India !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prash8830&label=Profile%20views&color=0e75b6&style=flat" alt="prash8830" /> </p>
