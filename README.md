@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant !</h1>
 <h3 align="center">A programmer from India for India !</h3>
 
+<img align="right" src="https://github.com/Prash8830/Full-Stack-Web-Projects/blob/master/Images/hi.png" alt="cer" >
 <p align="left"> <a href="https://twitter.com/prash8830" target="blank"><img src="https://img.shields.io/twitter/follow/prash8830?logo=twitter&style=for-the-badge" alt="prash8830" /></a> </p>
-
 - 🔭 I’m currently working on **Full Stack Web Dev**
 
 - 🌱 I’m currently learning **React**
@@ -12,7 +12,7 @@
 - 💬 Ask me about **C++ / PYTHON / DSA /ML / React**
 
 - 📫 How to reach me **prashantpatil16012001@gmail.com**
-<img align="right" src="https://github.com/Prash8830/Full-Stack-Web-Projects/blob/master/Images/hi.png" alt="cer" >
+<
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prash8830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prash8830" height="30" width="40" /></a>
