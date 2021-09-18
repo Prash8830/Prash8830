@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant !</h1>
 <h3 align="center">A programmer from India for India !</h3>
 
-<img align="right" src="https://github.com/Prash8830/Full-Stack-Web-Projects/blob/master/Images/hi.png" alt="cer" >
+<img align="right" src="https://github.com/Prash8830/Full-Stack-Web-Projects/blob/master/Images/5nf2oj.gif" alt="cer" >
 <p align="left"> <a href="https://twitter.com/prash8830" target="blank"><img src="https://img.shields.io/twitter/follow/prash8830?logo=twitter&style=for-the-badge" alt="prash8830" /></a> </p>
 - 🔭 I’m currently working on **Full Stack Web Dev**
 
