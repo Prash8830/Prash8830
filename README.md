@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant !</h1>
 <h3 align="center">A programmer from India for India !</h3>
 
-<img align="right" src="https://github.com/Prash8830/Full-Stack-Web-Projects/blob/master/Images/5nf2oj.gif" alt="cer" >
+<img align="right" src="https://raw.githubusercontent.com/Prash8830/NEWSTROM/main/Images/igi.gif" alt="cer" >
 
 - 🔭 I’m currently working on **Full Stack Web Dev**
 
