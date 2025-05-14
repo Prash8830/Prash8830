@@ -1,36 +1,84 @@
-<h1 align="center">Hi 👋, I'm Prashant !</h1>
-<h3 align="center">A programmer from India for India !</h3>
+<h1 align="center">Hi 👋, I'm Prashant!</h1>
+<h3 align="center">A programmer from India 🇮🇳, building for the world 🌍</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/Prash8830/NEWSTROM/main/Images/igi.gif" alt="cer" >
-
-- 🔭 I’m currently working on **Full Stack Web Dev**
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Prash8830](https://github.com/Prash8830)
-
-- 💬 Ask me about **C++ / PYTHON / DSA /ML / React**
-
-- 📫 How to reach me **prashantpatil16012001@gmail.com**
-<
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prash8830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prash8830" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prashant-patil-8830/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-patil-8830/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16363000/prashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16363000/prashant" height="30" width="40" /></a>
-<a href="https://kaggle.com/prash8830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prash8830" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucepvrcdhfxsno6aa2hluftw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucepvrcdhfxsno6aa2hluftw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prash8830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/prash8830" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prashantpatil161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/prashantpatil161" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prash_8830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/prash_8830" height="30" width="40" /></a>
-<a href="https://leetcode.com/prash30/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prash30/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prashantpatil16012001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@prashantpatil16012001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prashantpatil16012001/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/prashantpatil16012001/practice/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prash8830/NEWSTROM/main/Images/igi.gif" width="300" alt="Coding Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prash8830&show_icons=true&locale=en&layout=compact" alt="prash8830" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prash8830&show_icons=true&locale=en" alt="prash8830" /></p>
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 Currently exploring **React**, **Generative AI**, **LangGraph**, **RAG**, **Agents**, and **LLM-based tools**
+- 👨‍💻 All my projects are available at [github.com/Prash8830](https://github.com/Prash8830)
+- 💬 Ask me about **C++**, **Python**, **DSA**, **Machine Learning**, **React**, and **AI Agents**
+- 📫 How to reach me: **prashantpatil16012001@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/prash8830" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prashant-patil-8830/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/16363000/prashant" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://kaggle.com/prash8830" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/ucepvrcdhfxsno6aa2hluftw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <a href="https://www.codechef.com/users/prash8830"><img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/prashantpatil161"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/prash_8830"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/prash30/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerearth.com/@prashantpatil16012001"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/prashantpatil16012001/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Skills & Tools
+
+#### 👨‍💻 Languages & Frameworks
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+
+#### 📦 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4A154B?style=flat&logo=readthedocs&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/AI_Agents-007ACC?style=flat&logo=autodesk&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prash8830&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prash8830&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> 🧩 I love solving problems, building things from scratch, and diving into deep tech like AI, ML, and automation.
+
+---
+
+**Thanks for visiting! Don't forget to ⭐ my repositories if you like what you see!**
+
